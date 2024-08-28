@@ -28,4 +28,7 @@ public class Practice {
         System.out.print("이정님 ");
         System.out.println("안녕하세요?");
     }
+
+
+    
 }
