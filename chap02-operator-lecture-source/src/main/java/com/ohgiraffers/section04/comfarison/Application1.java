@@ -46,9 +46,10 @@ public class Application1 {
         System.out.println("==========================문자열 값 비교=====================================");
         System.out.println("str1과 str2 가 같은지 비교 : " + (str1 == str2));
         System.out.println("str1과 str2 가 다른지 비교 : " + (str1 != str2));
-        System.out.println("str1과 str2 가 다른지 비교 : " + (str1 >= str2));
+       // System.out.println("str1과 str2 가 다른지 비교 : " + (str1 >= str2));
         //문자열은 == , != 는 가능하지만, 대소 비교는 불가능하다.
-        
+
+
 
 
 
