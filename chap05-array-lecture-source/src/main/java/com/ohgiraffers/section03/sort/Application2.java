@@ -22,6 +22,7 @@ public class Application2 {
 
                 }
             }
+            //----------------
         }
         for(int i : iarr) {
             System.out.print(i + " ");
