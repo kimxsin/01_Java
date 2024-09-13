@@ -34,3 +34,4 @@ public class SubClass extends SuperClass {
     @Override
     public void protectedMethod() {} // 더 넓은 범위로도 가능
 }
+//----
