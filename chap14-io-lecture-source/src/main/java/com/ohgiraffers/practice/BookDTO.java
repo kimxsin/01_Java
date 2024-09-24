@@ -49,6 +49,11 @@ public class BookDTO {
 
     @Override
     public String toString() {
-        return super.toString();
+        return "BookDTO{" +
+                "title='" + title + '\'' +
+                ", author='" + author + '\'' +
+                ", price=" + price +
+                ", category='" + category + '\'' +
+                '}';
     }
 }
